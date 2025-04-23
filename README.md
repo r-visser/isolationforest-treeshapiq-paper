@@ -51,9 +51,6 @@ In order to run the paper experiments follow the instructions below.
 - `python experiment.py diagonal_feature --data_type "diagonal_feature" --n_trials 10 --results_folder "./results"`
 - `python experiment.py single_outlier_quandrant --data_type "single_outlier_quandrant" --n_trials 10 --results_folder "./results"`
 
-## Paper & Citation
-
-Preprint at: 
 
 ```bib
 ```
